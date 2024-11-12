@@ -25,12 +25,14 @@ The follow steps outline the quality control and calibration process:
 5) Enter any final notes during quality control process
 6) Select folder location to save processed data and quality control pdf document.
 6.1) 3 files will be created: .csv file of the processed data, .mat file of the processed data, and .pdf document with all plots and notes.
-   Examples of these files are in this repository: "SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
-                                                   "SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
-                                                   "SIOPier_240201_240417_SIO7JS_QC_20240807225753.pdf"
+   Examples of these files are in this repository:
+      - "SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
+      - "SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
+      - "SIOPier_240201_240417_SIO7JS_QC_20240807225753.pdf"
 6.2) Quality controlled bottle and tris files (.csv and .mat) will also be created.
-   Examples of these files are in this repository: "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
-                                                   "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
-                                                   "Tris_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
-                                                   "Tris_SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
+   Examples of these files are in this repository:
+      - "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
+      - "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
+      - "Tris_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
+      - "Tris_SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
    
