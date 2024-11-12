@@ -22,7 +22,7 @@ The follow steps outline the quality control and calibration process:
 4) Based on standard deviation and number of calibration points, use a mean or linear k0 value to process and calculate corrected pH.
 4.1) New figure window will open allowing the user to brush any unwanted or erroneous data.
 4.2) Save the brushed data and view the final corrected pH.
-5) Enter any final notes during quality control process
+5) Enter any final notes during quality control process.
 6) Select folder location to save processed data and quality control pdf document.
 6.1) 3 files will be created: .csv file of the processed data, .mat file of the processed data, and .pdf document with all plots and notes.
    Examples of these files are in this repository:
