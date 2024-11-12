@@ -30,7 +30,7 @@ The follow steps outline the quality control and calibration process:
       - "SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
       - "SIOPier_240201_240417_SIO7JS_QC_20240807225753.pdf"
 6.2) Quality controlled bottle and tris files (.csv and .mat) will also be created.
-   Examples of these files are in this repository:
+Examples of these files are in this repository:
       - "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
       - "Bottle_SIOPier_240201_240417_SIO7JS_QC_20240807225753.mat"
       - "Tris_SIOPier_240201_240417_SIO7JS_QC_20240807225753.csv"
